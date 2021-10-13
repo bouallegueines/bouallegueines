@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bouallegueines
-- 👀 I’m interested in dev development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Full-Stack Js
 - 📫 How to reach me
      Email: ines.bouallegue0@gmail.com
